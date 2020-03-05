@@ -1,16 +1,12 @@
-body {
-    font-family: 'Roboto', sans-serif;
-}
-h1, h2, h3, h4, h5, h6, header {
-    font-family: 'Kaushan Script', cursive;
-}
+/* ELEMENT STYLES */
 
 /* CLASS STYLES */
-.profile {
-    float: left;
-}
-.contact {
-    float: right;
+#h1 {
+    font-family: 'Kaushan Script', cursive;
+    color: rgb(218, 57, 50);
+    font-size: 40px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(237, 156, 75);
 }
 
-/* ID STYLES */
+/* ID STYLES */ 
