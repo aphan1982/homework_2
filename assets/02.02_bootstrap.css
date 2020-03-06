@@ -5,6 +5,10 @@
     -webkit-filter: drop-shadow(1px 1px 1px rgb(158, 156, 156));
     filter: drop-shadow(1px 1px 1px rgb(158, 156, 156));
 }
+.dropShadowRed {
+    -webkit-filter: drop-shadow(1px 1px 1px rgb(218, 57, 50));
+    filter: drop-shadow(1px 1px 1px rgb(218, 57, 50));
+}
 .h1, .navBrandText {
     font-family: 'Kaushan Script', cursive;
 }
@@ -17,9 +21,16 @@
 .navBrandText {
     font-size: 20px;
 }
-.navLinksText {
+.nav-link {
+    color: rgb(218, 57, 50);
+}
+.nav-link:hover {
+    color: rgb(237, 156, 75);
+}
+.navLinkText {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
+    font-weight: bold;
 }
 
 /* ID STYLES */ 
