@@ -45,6 +45,9 @@ body {
     color: rgb(218, 57, 50);
     font-size: 14px;
 }
+.navLinkFooter {
+    font-size: 10px;
+}
 .nav-link:hover {
     color: rgb(237, 156, 75);
 }
