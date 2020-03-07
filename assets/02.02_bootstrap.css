@@ -4,6 +4,10 @@ body {
 }
 
 /* CLASS STYLES */
+.brandTextEmphasis {
+    color: rgb(237, 156, 75);
+    /* font-size: 20px; */
+}
 .card {
     border: none;
     font-family: 'Roboto', sans-serif;
