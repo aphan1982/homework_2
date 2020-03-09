@@ -78,4 +78,8 @@ body {
 .nav-link:hover {
     color: rgb(237, 156, 75);
 }
+.row {
+    margin-bottom: 2rem;
+    margin-top: 2 rem;
+}
 /* ID STYLES */ 
